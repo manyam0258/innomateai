@@ -1,4 +1,6 @@
 from google import genai
+import google.generativeai as genai
+
 import frappe
 from frappe.utils import today
 from pydantic import BaseModel
