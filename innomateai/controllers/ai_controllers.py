@@ -1,4 +1,5 @@
-from .ai_assistant import AiAssistant
+#from .ai_assistant import AiAssistant
+import google.generativeai as genai
 import frappe
 import json
 
