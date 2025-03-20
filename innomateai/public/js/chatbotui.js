@@ -27,7 +27,7 @@ function createChat() {
                                     c29.05,0,52.61,23.55,52.61,52.61v239.66C465.97,398.88,442.41,422.44,413.36,422.44z"/>
                             </g>
                         </svg>
-                        <h2>Innomate AI</h2>
+                        <h2>Frappe AI</h2>
                     </div>
                     <span class="expand-btn material-symbols-outlined">open_in_full</span>
                     <span class="close-btn material-symbols-outlined">close</span>
